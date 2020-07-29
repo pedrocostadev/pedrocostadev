@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Pedro Costa 👋 👩🏾‍💻
 
-<!--
-**pedrocostadev/pedrocostadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software Engineer with a special interest in JavaScript and Open-Source technologies. I enjoy working with HTML, CSS, Javascript, NodeJS, ReactJS and GraphQL. 
 
-Here are some ideas to get you started:
+### Find more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img src="./imgs/linkedin.png"/><a href="https://www.linkedin.com/in/pedrodanielcc/"> @pedrodanielcc</a>
+- <img src="./imgs/twitter.png"/><a href="https://twitter.com/pedro_dcc"> @pedro_dcc</a>
+
+
+### Some writings
+
+- <a href="https://medium.com/@pedro.costa.dev/the-art-of-refactoring-7473850a3d88">The art of refractoring</a>
+- <a href="https://medium.com/@pedro.costa.dev/coding-like-a-human-f2488d6064f6">Coding like a human (part 1)</a>
+- <a href="https://medium.com/@pedro.costa.dev/coding-like-a-human-part-2-b0256fd6517a">Coding like a human (part 2)</a>
