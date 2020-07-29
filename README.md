@@ -1,14 +1,14 @@
-## Hi, I'm Pedro Costa 👋 👩🏾‍💻
+## Hi, I'm Pedro Costa 👋 
 
 I'm a software Engineer with a special interest in JavaScript and Open-Source technologies. I enjoy working with HTML, CSS, Javascript, NodeJS, ReactJS and GraphQL. 
 
-### Find more about me
+### Find more about me 
 
-- <img src="./imgs/linkedin.png"/><a href="https://www.linkedin.com/in/pedrodanielcc/"> @pedrodanielcc</a>
-- <img src="./imgs/twitter.png"/><a href="https://twitter.com/pedro_dcc"> @pedro_dcc</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/pedrodanielcc/">@pedrodanielcc</a>
+- Twitter: <a href="https://twitter.com/pedro_dcc">@pedro_dcc</a>
 
 
-### Some writings
+### Some writings ✍
 
 - <a href="https://medium.com/@pedro.costa.dev/the-art-of-refactoring-7473850a3d88">The art of refractoring</a>
 - <a href="https://medium.com/@pedro.costa.dev/coding-like-a-human-f2488d6064f6">Coding like a human (part 1)</a>
