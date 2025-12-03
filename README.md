@@ -16,4 +16,4 @@ I'm a software Engineer with a special interest in JavaScript and Open-Source te
 
 ### Some AI Experiments ✍
 
-- <a href="ratemyportfolio.app">RateMyPortfolio</a>
+- <a href="https://ratemyportfolio.app">RateMyPortfolio</a>
