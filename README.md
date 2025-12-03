@@ -14,6 +14,6 @@ I'm a software Engineer with a special interest in JavaScript and Open-Source te
 - <a href="https://medium.com/@pedro.costa.dev/coding-like-a-human-f2488d6064f6">Coding like a human (part 1)</a>
 - <a href="https://medium.com/@pedro.costa.dev/coding-like-a-human-part-2-b0256fd6517a">Coding like a human (part 2)</a>
 
-### Some AI Experiments ✍
+### Some AI Experiments 🧠
 
 - <a href="https://ratemyportfolio.app">RateMyPortfolio</a>
