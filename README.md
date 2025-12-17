@@ -17,3 +17,4 @@ I'm a software Engineer with a special interest in JavaScript and Open-Source te
 ### Some AI Experiments 🧠
 
 - <a href="https://ratemyportfolio.app">RateMyPortfolio</a>
+- <a href="https://ai-travelling-salesman.vercel.app/">AI Travelling Salesman Race</a>
