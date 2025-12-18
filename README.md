@@ -1,12 +1,11 @@
-## Hi, I'm Pedro Costa 👋 
+## Hi, I'm Pedro Costa 👋
 
-I'm a software Engineer with a special interest in JavaScript and Open-Source technologies. I enjoy working with HTML, CSS, Javascript, NodeJS, ReactJS and GraphQL. 
+I'm a software Engineer with a special interest in JavaScript and Open-Source technologies. I enjoy working with HTML, CSS, Javascript, NodeJS, ReactJS and GraphQL.
 
-### Find more about me 
+### Find more about me
 
 - LinkedIn: <a href="https://www.linkedin.com/in/pedrodanielcc/">@pedrodanielcc</a>
 - Twitter: <a href="https://twitter.com/pedro_dcc">@pedro_dcc</a>
-
 
 ### Some writings ✍
 
@@ -18,3 +17,8 @@ I'm a software Engineer with a special interest in JavaScript and Open-Source te
 
 - <a href="https://ratemyportfolio.app">RateMyPortfolio</a>
 - <a href="https://ai-travelling-salesman.vercel.app/">AI Travelling Salesman Race</a>
+
+### Published NPM Packages 📦
+
+- <a href="https://www.npmjs.com/package/react-triple-select-box">react-triple-select-box</a>
+- <a href="https://www.npmjs.com/package/react-carousel-query">react-carousel-query</a>
