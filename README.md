@@ -1,6 +1,6 @@
 ## Hi, I'm Pedro Costa 👋
 
-I'm a software Engineer with a special interest in JavaScript and Open-Source technologies. I enjoy working with HTML, CSS, Javascript, NodeJS, ReactJS and GraphQL.
+I'm a software Engineer with a special interest in Web and Open-Source technologies.
 
 ### Find more about me
 
