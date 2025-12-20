@@ -1,0 +1,14 @@
+{
+  "name": "pedrocostadev-profile",
+  "version": "1.0.0",
+  "description": "Pedro Costa's GitHub profile README",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["profile", "github"],
+  "author": "Pedro Costa",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
