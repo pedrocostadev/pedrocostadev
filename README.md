@@ -1,24 +1,34 @@
-## Hi, I'm Pedro Costa 👋
+# Hi, I'm Pedro Costa 👋
 
 I'm a software Engineer with a special interest in Web and Open-Source technologies.
 
-### Find more about me
+## Find more about me
 
-- LinkedIn: <a href="https://www.linkedin.com/in/pedrodanielcc/">@pedrodanielcc</a>
-- Twitter: <a href="https://twitter.com/pedro_dcc">@pedro_dcc</a>
+- LinkedIn: [@pedrodanielcc](https://www.linkedin.com/in/pedrodanielcc/)
+- Twitter: [@pedro_dcc](https://twitter.com/pedro_dcc)
 
-### Some writings ✍
+## Some writings ✍
 
-- <a href="https://medium.com/@pedro.costa.dev/the-art-of-refactoring-7473850a3d88">The art of refactoring</a>
-- <a href="https://medium.com/@pedro.costa.dev/coding-like-a-human-f2488d6064f6">Coding like a human (part 1)</a>
-- <a href="https://medium.com/@pedro.costa.dev/coding-like-a-human-part-2-b0256fd6517a">Coding like a human (part 2)</a>
+- [The art of refactoring](https://medium.com/@pedro.costa.dev/the-art-of-refactoring-7473850a3d88)
+- [Coding like a human (part 1)](https://medium.com/@pedro.costa.dev/coding-like-a-human-f2488d6064f6)
+- [Coding like a human (part 2)](https://medium.com/@pedro.costa.dev/coding-like-a-human-part-2-b0256fd6517a)
 
-### Some AI Experiments 🧠
+## Some AI Experiments 🧠
 
-- <a href="https://ratemyportfolio.app">RateMyPortfolio</a>
-- <a href="https://ai-travelling-salesman.vercel.app/">AI Travelling Salesman Race</a>
+- [RateMyPortfolio](https://ratemyportfolio.app)
+- [AI Travelling Salesman Race](https://ai-travelling-salesman.vercel.app/)
 
-### Published NPM Packages 📦
+## Published NPM Packages 📦
 
-- <a href="https://www.npmjs.com/package/react-triple-select-box">react-triple-select-box</a>
-- <a href="https://www.npmjs.com/package/react-carousel-query">react-carousel-query</a>
+- [react-triple-select-box](https://www.npmjs.com/package/react-triple-select-box)
+- [react-carousel-query](https://www.npmjs.com/package/react-carousel-query)
+
+## My Setup 🖥
+
+- Raycast
+- Cursor
+- Mole
+- 1Password
+- Amphetamine
+- Warp
+- Macbook Pro M4
