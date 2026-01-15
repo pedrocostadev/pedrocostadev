@@ -18,7 +18,7 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 
 - [RateMyPortfolio](https://ratemyportfolio.app)
 - [AI Travelling Salesman Race](https://ai-travelling-salesman.vercel.app/)
-- [AI Notebook](pedrocostadev.github.io/ai-notebook)
+- [AI Notebook](https://pedrocostadev.github.io/ai-notebook)
 
 ## Published NPM Packages 📦
 
