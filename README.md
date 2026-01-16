@@ -13,6 +13,7 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 - [Coding like a human (part 1)](https://medium.com/@pedro.costa.dev/coding-like-a-human-f2488d6064f6)
 - [Coding like a human (part 2)](https://medium.com/@pedro.costa.dev/coding-like-a-human-part-2-b0256fd6517a)
 - [VS Code + Copilot vs Cursor vs VS Code + Claude](https://pedrocostadev.substack.com/p/vs-code-copilot-vs-cursor-vs-vs-code)
+- [Should we use React in 2026?](https://pedrocostadev.substack.com/p/should-we-use-react-in-2026)
 
 ## Some AI Experiments 🧠
 
