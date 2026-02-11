@@ -29,7 +29,7 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 ## My Setup 🖥
 
 - Raycast
-- Cursor
+- VS Code + Github Copilot
 - Mole
 - 1Password
 - Amphetamine
