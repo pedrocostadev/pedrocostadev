@@ -30,6 +30,7 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 
 - Raycast
 - VS Code + Github Copilot
+- Claude Code
 - Mole
 - 1Password
 - Amphetamine
