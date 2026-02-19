@@ -6,8 +6,7 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 
 - LinkedIn: [@pedrodanielcc](https://www.linkedin.com/in/pedrodanielcc/)
 - Twitter: [@pedro_dcc](https://twitter.com/pedro_dcc)
-
-## Check my writings on [codinglikeahuman.dev](https://www.codinglikeahuman.dev)✍
+- Read my writings on [codinglikeahuman.dev](https://www.codinglikeahuman.dev)✍
 
 ## Some AI Experiments 🧠
 
