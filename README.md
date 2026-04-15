@@ -14,7 +14,7 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 - [AI Travelling Salesman Race](https://ai-travelling-salesman.vercel.app/)
 - [AI Notebook](https://ai-notebook-chat.vercel.app/)
 
-## Published NPM Packages 📦
+## Published NPM Packages (very old 👴) 📦
 
 - [react-triple-select-box](https://www.npmjs.com/package/react-triple-select-box)
 - [react-carousel-query](https://www.npmjs.com/package/react-carousel-query)
