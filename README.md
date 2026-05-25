@@ -4,7 +4,6 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 
 ## Find more about me
 
-- LinkedIn: [@pedrodanielcc](https://www.linkedin.com/in/pedrodanielcc/)
 - Twitter: [@pedro_dcc](https://twitter.com/pedro_dcc)
 - Read my writings on [codinglikeahuman.dev](https://www.codinglikeahuman.dev)
 
@@ -18,6 +17,11 @@ I'm a software Engineer with a special interest in AI, Web and Open-Source techn
 
 - [react-triple-select-box](https://www.npmjs.com/package/react-triple-select-box)
 - [react-carousel-query](https://www.npmjs.com/package/react-carousel-query)
+
+## When I have time, I contribute to some Raycast extensions I use 👷‍♂️
+
+- [Github Copilot](https://www.raycast.com/github/github-copilot)
+- [Sentry](https://www.raycast.com/thomas/sentry)
 
 ## My Setup 🖥
 
